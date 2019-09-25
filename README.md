@@ -2,6 +2,8 @@
 Slide decks from my conference presentations
 
 ## Conference Presentations
+* Meetup Paris Android/iOS Security: ["Puis-je hacker votre application Android, please?"](https://www.meetup.com/Groupe-Meetup-Paris-Android-Security/events/262999251/)
+    + [Slides](MeetupParisAndroidiOSSecurity.HackAndroidApp.pdf)
 * AppSec Village Defcon 27: ["History of the worst Android app ever: mAadhaar"](https://www.appsecvillage.com/agenda#h.p_GjUawKbJy5uT)
     + [Video](https://youtu.be/1dnyV2Gd48A)
     + [Slides](AppSecVillageDefcon27.mAadhaar.pdf)
