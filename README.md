@@ -2,6 +2,8 @@
 Slide decks from my conference presentations
 
 ## Conference Presentations
+* Devfest Toulouse 2019: ["L'histoire de la découverte d'une backdoor signée OnePlus"](https://2019.devfesttoulouse.fr/sessions/l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus/)
+    + [Slides](DevfestToulouse2019.BackdoorOnePlus.pdf)
 * Meetup Paris Android/iOS Security: ["Puis-je hacker votre application Android, please?"](https://www.meetup.com/Groupe-Meetup-Paris-Android-Security/events/262999251/)
     + [Slides](MeetupParisAndroidiOSSecurity.HackAndroidApp.pdf)
 * AppSec Village Defcon 27: ["History of the worst Android app ever: mAadhaar"](https://www.appsecvillage.com/agenda#h.p_GjUawKbJy5uT)
