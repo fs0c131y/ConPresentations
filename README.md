@@ -2,6 +2,8 @@
 Slide decks from my conference presentations
 
 ## Conference Presentations
+* Transformons La France 2019: ["La cybersécurité n'est pas une option"](https://toulouse.latribune.fr/evenements/2019-10-28/comment-toulouse-et-l-occitanie-transforment-la-france-831804.html)
+    + [Slides](TransformonsLaFrance2019.CyberSecurityOption.pdf)
 * Devfest Toulouse 2019: ["L'histoire de la découverte d'une backdoor signée OnePlus"](https://2019.devfesttoulouse.fr/sessions/l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus/)
     + [Slides](DevfestToulouse2019.BackdoorOnePlus.pdf)
 * Meetup Paris Android/iOS Security: ["Puis-je hacker votre application Android, please?"](https://www.meetup.com/Groupe-Meetup-Paris-Android-Security/events/262999251/)
